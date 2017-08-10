@@ -220,6 +220,7 @@ button:focus {
 
 .tm-2-col-container {
     max-width: 800px;
+    overflow: hidden;
 }
 
 .tm-3-col-container {
