@@ -1,9 +1,7 @@
 # Blog
 <h3>个人博客项目</h3>(Node.js(服务端)+Mongodb(数据库)+Express+Mongoose+bodyparse+markdown(框架|库))<br><br>
 本项目学习自<a href="http://study.163.com/course/courseMain.htm?courseId=1003675016">妙味课堂</a><br>
-<p>后经个人功能需求做了一些修改后如下:</p>
-
-<em>(此处留空博客地址，等申请了稳定的服务器后再摆上来)</em>
+<p>后经个人功能需求做了一些修改:<em>(此处留空博客地址，等申请了稳定的服务器后再摆上来)</em></p>
 
 <h3>项目部署的过程(你也可参照<a href="https://segmentfault.com/a/1190000004051670#articleHeader4">我参照的</a>)</h3>
 <strong>下面是个人首次安装过程与遇到的一些问题的简单总结</strong>
