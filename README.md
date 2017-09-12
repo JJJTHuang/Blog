@@ -3,7 +3,7 @@
 本项目学习自<a href="http://study.163.com/course/courseMain.htm?courseId=1003675016">妙味课堂</a><br>
 <p>后经个人功能需求做了一些修改后如下:</p>
 
-<a href="jthuang.cn"></a>
+<a href="jthuang.cn">建添的博客</a>
 
 <p>项目部署的过程(我参照的是-><a href="https://segmentfault.com/a/1190000004051670#articleHeader4">我参照的</a>)</p>
 <p><strong>下面是个人首次安装过程与遇到的一些问题的简单总结</strong></p>
